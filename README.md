@@ -1,8 +1,9 @@
+
 const about = {
     name: 'Nitin Ambegave',
     experience: {
         curr: [
-            'seeking for job opportunities for MERN and mobile app developer',
+            'seeking for job opportunities for MERN and mobile app developer'
         ],
         prev: [
             'web developer intern @ oasis infobyte'
