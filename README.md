@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**ambegavenitinbalaji/ambegavenitinbalaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const about = {
+    name: 'Nitin Ambegave',
+    experience: {
+        curr: [
+            'seeking for job opportunities for MERN and mobile app developer',
+        ],
+        prev: [
+            'web developer intern @ oasis infobyte'
+        ],
+        edu: 'Bachelor's of Engineering in Information Technology @ Savitribai Phule Pune University'
+    },
+    links: {
+        github: 'https://github.com/ambegavenitinbalaji'
+    },
+    quote: 'it is what it is. - pavel alekseevich klimov'
+}
