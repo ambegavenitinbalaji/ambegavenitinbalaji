@@ -35,7 +35,7 @@ I'm a **Fresher Full Stack Software Engineer** with a passion for building inter
 - Continuously improving my knowledge in software development and exploring new technologies.
 
 ### 📫 Let's Connect
-- LinkedIn: 'www.linkedin.com/in/nitin-ambegave-877323236'
+- LinkedIn: www.linkedin.com/in/nitin-ambegave-877323236
 - Email: ambegaven81945@gmail.com
 
 Thanks for stopping by! 😄
