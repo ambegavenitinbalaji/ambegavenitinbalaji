@@ -1,9 +1,7 @@
-# Hi there! 👋 I'm Nitin Ambegave
-
-Hi there! I'm Nitin Ambegave
+Hi there! 👋 I'm Nitin Ambegave
 
 ```javascript
-const about = {
+ about = {
     name: 'Nitin Ambegave',
     education: {
         degree: 'B.E. in Information Technology',
